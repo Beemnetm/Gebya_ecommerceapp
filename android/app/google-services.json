@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891443374148",
+    "project_id": "gebya-ecommerce-app",
+    "storage_bucket": "gebya-ecommerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891443374148:android:f4a9fa47c628b96490b411",
+        "android_client_info": {
+          "package_name": "com.example.gebya_ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSmF4_GnHPFuniH6eCHPyZ3ThukvoyMIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
